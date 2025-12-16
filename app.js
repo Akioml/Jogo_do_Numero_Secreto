@@ -1,5 +1,5 @@
 let listaDeNumeros = []
-let maximoTentativa = 5
+let maximoTentativa = 50
 let numeroSecreto = numeroAleatorio()
 let tentativas = 1
 
